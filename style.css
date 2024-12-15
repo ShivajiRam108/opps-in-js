@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+h1{
+    /* margin: 20px; */
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    color: rgb(155, 226, 0);
+    height: 100px;
+}
+pre{
+    color: red;
+    font-weight: 500;
+    font-family: fantasy;
+    font-style: italic;
+    padding: 20px;
+    margin: 15px;
+
+}
+img{
+    max-width: 100%; 
+    height: auto;   
+    display: block; 
+    margin: 0 auto; 
+    cursor: pointer;
+    transform: scale(0.90);
+
+}
